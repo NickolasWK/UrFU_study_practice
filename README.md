@@ -1,2 +1,8 @@
-# UrFU_study_practice
-Practical work on ML Practical Track
+# UrFU study practice
+Домашние рабоиы по практике на треке ОГОиИИ
+* homework1 - директория с ответами на работу №1
+* homework2 - директория с ответами на работу №2
+* homework3 - директория с ответами на работу №3
+* homework4 - директория с ответами на работу №4
+* homework5 - директория с ответами на работу №5
+* homework6 - директория с ответами на работу №6
