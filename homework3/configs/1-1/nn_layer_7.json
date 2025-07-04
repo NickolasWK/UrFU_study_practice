@@ -1,0 +1,13 @@
+{
+    "input_size": 784,
+    "num_classes": 10,
+    "layers": [
+        {"type": "linear", "size": 256},
+        {"type": "linear", "size": 128},
+        {"type": "linear", "size": 64},
+        {"type": "linear", "size": 32},
+        {"type": "linear", "size": 16},
+        {"type": "linear", "size": 8},
+        {"type": "linear", "size": 4}
+    ]
+}
